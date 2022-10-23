@@ -1,1 +1,1 @@
-hi
+this is just a simple init file
